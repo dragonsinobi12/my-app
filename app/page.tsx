@@ -40,7 +40,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-2xl blur-2xl opacity-50"></div>
               <div className="relative bg-slate-800 rounded-2xl overflow-hidden border border-slate-700">
                 <Image
-                  src="/profile.jpg"
+                  src="/profile.png"
                   width={320}
                   height={320}
                   alt="Picture of Ronnakit"
